@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+
+hi my name is Diwesh Dutt
+I'am a management post gradute student.
